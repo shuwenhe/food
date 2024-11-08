@@ -1,2 +1,0 @@
-# xstiku
-# www.xstiku.com
